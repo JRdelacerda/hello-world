@@ -3,4 +3,4 @@ TipnDip
 
 Hello human world!
 
-I use create an augmented reality to make problem solving simpler!
+I create an augmented reality to make problem solving a simpler experience for your reality!
